@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-##TechShowcase
+#TechShowcase
 
 📋 Sobre
 TechShowcase é uma plataforma inovadora que permite a profissionais e criativos da área de tecnologia exibirem seus projetos em um formato de vitrine digital. Nossa solução funciona como um microsaas onde usuários podem criar perfis personalizados, apresentar seu portfólio de trabalhos e comercializar seus projetos e serviços.
