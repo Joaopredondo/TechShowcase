@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##TechShowcase
 
 📋 Sobre
